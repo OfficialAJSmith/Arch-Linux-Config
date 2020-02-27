@@ -1,2 +1,2 @@
-# Arch-Linux-Config
-My Arch Linux Config dot files
+# Linux-Config
+My Linux Config dot files
